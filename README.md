@@ -11,6 +11,6 @@ Not really a full game just some simple pick-up and drop off mechanics while dri
 - Boost on the Blue Triangles :arrow_up_small:
 
 ## :camera_flash: Caught in (almost) 4K
-This was my first dabble with Unity to familiarize myself with the interface
+For this project I learnt how to make a basic 2D movement script and controls and working with triggers and colliders. 
 
 ![](https://github.com/BPSCrash/DeliveryDriver/blob/main/MapScreeenshot.png)
