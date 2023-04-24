@@ -1,6 +1,6 @@
 # :truck: Devilish Dave - Delivery Driver
 
-Basic DHL training guide - grab box - dropkick it - deliver it <br />
+Basic DHL training guide - grab box - dropkick it - deliver it! <br />
 Not really a full game just some simple pick-up and drop off mechanics while driving a cool car
 
 ## :keyboard: How to use
